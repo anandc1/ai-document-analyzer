@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Upload, FileText, Brain, MessageCircle, Loader2, Download } from 'lucide-react'
+import { Upload, FileText, Brain, MessageCircle, Loader2 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Input } from '@/components/ui/input'
