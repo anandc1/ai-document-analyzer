@@ -65,10 +65,6 @@ VITE_API_URL=http://localhost:8000
 ![Document Upload Interface](screenshots/upload.png)
 ![Analysis Results](screenshots/analysis.png)
 
-## Author
-
-Created by **Anand Chunduri** - [GitHub](https://github.com/anandc1)
-
 ## Contributing
 
 1. Fork the repository
